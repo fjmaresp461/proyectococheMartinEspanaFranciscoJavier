@@ -6,6 +6,12 @@ package coche;
  * @author Fran
  */
 public class Main {
+    public static void operatoriaVentaMartinEspanaFranciscoJavier2223(){
+ 
+}
+   public static void operatoriaCompraMartinEspanaFranciscoJavier2223(){
+   
+} 
    
       public static void main(String[] args) {
         operativa_coches(300);
